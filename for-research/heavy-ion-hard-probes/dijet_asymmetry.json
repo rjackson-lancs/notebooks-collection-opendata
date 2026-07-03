@@ -1,0 +1,16 @@
+{
+    "hist_config": {
+        "AJ": {
+            "range": [0, 1],
+            "nbins": 20
+        },
+        "dPhi": {
+            "range": [1.570, 3.142],
+            "_comment": "[pi/2, pi]",
+            "nbins": 20
+        }
+    },
+    "formatting": {
+        "empty": 0
+    }
+}
