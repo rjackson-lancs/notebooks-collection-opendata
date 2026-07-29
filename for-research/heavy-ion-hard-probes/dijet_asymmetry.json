@@ -12,5 +12,37 @@
     },
     "formatting": {
         "empty": 0
+    },
+    "mc_metadata": {
+        "Z0DAODs": {
+            "filt_eff": 0.99714,
+            "cross_section": 67890000,
+            "n_gen": 2966286
+        },
+        "Z1DAODs": {
+            "filt_eff": 0.0028311,
+            "cross_section": 67890000,
+            "n_gen": 5933442
+        },
+        "Z2DAODs": {
+            "filt_eff":  0.0042785,
+            "cross_section": 639970,
+            "n_gen": 5933442
+        },
+        "Z3DAODs": {
+            "filt_eff": 0.005288,
+            "cross_section": 4719.3,
+            "n_gen": 5933442
+        },
+        "Z4DAODs": {
+            "filt_eff": 0.0045851,
+            "cross_section": 26.602,
+            "n_gen": 5933442
+        },
+        "Z5DAODs": {
+            "filt_eff": 0.0021805,
+            "cross_section": 0.22476,
+            "n_gen": 2966721
+        }
     }
 }
