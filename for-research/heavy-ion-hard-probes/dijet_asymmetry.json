@@ -8,6 +8,14 @@
             "range": [1.570, 3.142],
             "_comment": "[pi/2, pi]",
             "nbins": 20
+        },
+        "leading_et": {
+            "range": [25e3, 250e3],
+            "nbins": 20
+        },
+        "subleading_et": {
+            "range": [25e3, 200e3],
+            "nbins": 20
         }
     },
     "formatting": {
