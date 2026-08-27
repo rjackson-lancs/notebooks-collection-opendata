@@ -51,6 +51,7 @@
             "filt_eff": 0.0021805,
             "cross_section": 0.22476,
             "n_gen": 2966721
-        }
+        },
+        "_comment": "Cross sections in nb^-1"
     }
 }
