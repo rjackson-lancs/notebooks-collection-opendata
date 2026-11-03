@@ -21,6 +21,14 @@
     "formatting": {
         "empty": 0
     },
+    "mc_dsids": {
+        "420010": "jetjet_JZ0R04",
+        "420011": "jetjet_JZ1R04",
+        "420012": "jetjet_JZ2R04",
+        "420013": "jetjet_JZ3R04",
+        "420014": "jetjet_JZ4R04",
+        "420015": "jetjet_JZ5R04"
+    },
     "mc_metadata": {
         "Z0DAODs": {
             "filt_eff": 0.99714,
